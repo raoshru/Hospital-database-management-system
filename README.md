@@ -1,5 +1,3 @@
-# dbms-projectDatabase
-
 # Hospital Database Management System
 
 ## Overview
