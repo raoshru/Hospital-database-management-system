@@ -18,7 +18,7 @@ The main goal is to build a database for hospital management to continuously mon
 ## User Story 1:
 As a hospital management staff, I would like to manage Patient records, Insurance information, Patient conditions, lab test results, and reports related to patients.
 
-![image](/images/Picture1.png)
+![image](/Images/Picture1.png)
 
 ## User Story 2:
 As a hospital management staff, I would like to manage workers by having a clear view of their personal data, such as their email, phone number, gender, etc.
