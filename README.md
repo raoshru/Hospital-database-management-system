@@ -23,21 +23,21 @@ As a hospital management staff, I would like to manage Patient records, Insuranc
 ## User Story 2:
 As a hospital management staff, I would like to manage workers by having a clear view of their personal data, such as their email, phone number, gender, etc.
 
-![image](/images/Picture2.png)
+![image](/Images/Picture2.png)
 
 ## User Story 3:
 As a hospital management staff, I would like to track patient's appointments, to manage staff and resources accordingly.
 
-![image](/images/Picture3.png)
+![image](/Images/Picture3.png)
 
 ## User Story 4:
 As a hospital management staff, I would like to track the Patients feedbacks given to hospital staff, that will enable management to more precisely monitor worker performance.
 
-![image](/images/Picture4.png)
+![image](/Images/Picture4.png)
 
 ## Application created using PowerApps
 
-![image](/images/app1.png)
-![image](/images/app2.png)
-![image](/images/app3.png)
+![image](/Images/app1.png)
+![image](/Images/app2.png)
+![image](/Images/app3.png)
 
